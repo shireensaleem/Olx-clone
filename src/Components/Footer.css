@@ -1,0 +1,27 @@
+.footer-div{
+    background-color: rgb(235 238 239);
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    margin-top: 10px;
+}
+ul li {
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+    
+}
+.first-list li{
+    margin-left: 30px;
+    
+}
+.other-list{
+    margin-left: 120px;
+}
+.footer-icons{
+    margin-left: 180px;
+    margin-top: 5px;
+}
+ 
+

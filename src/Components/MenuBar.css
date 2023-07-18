@@ -1,0 +1,36 @@
+*{
+    color: black;
+}
+.menuBar-form select {
+   color: black;
+   width: 170px;
+   height: 40px;
+   font-size: 16px;
+   font-weight: 600;
+   border: none;
+   margin-left: 10px;
+}
+.MenuBar-div{
+    display: flex;
+    flex-direction: row;
+  
+   
+    border: 2px solid #d8dfe0;
+}
+.items-menubar{
+    margin-left: 15px;
+    margin-top: 6px;
+}
+.items-menubar a {
+    margin-left: 24px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.items-menubar a:hover{
+    color: #406367;
+    cursor: pointer;
+} 
+.hr-color{
+    color: #d8dfe0;
+    background-color: #002f34;
+}

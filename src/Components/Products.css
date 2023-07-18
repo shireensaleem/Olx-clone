@@ -1,0 +1,31 @@
+
+.Products-main-div{
+    background-color:white ;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 4px;
+    margin-top: 60px;
+    text-align: left;
+    padding: 8px;
+    max-height: 400px;
+    max-width: 300px;
+    border: 1.5px solid #DFE5E5;
+    margin-bottom: 30px;
+}
+.product-rating{
+    float: right;
+}
+.product-image{
+    max-height: 150px;
+    margin-left: 52px;
+}
+.featured-btn{
+    background-color: #ffce32;
+    border: none;
+    height: 25px;
+    width: 55px;
+}
+.product-details{
+    border-left:6px solid #ffce32;
+    margin-left: -10px;
+}

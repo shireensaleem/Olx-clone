@@ -1,0 +1,75 @@
+
+.banner-div{
+    display: flex;
+    font-size: 20px;
+  
+}
+.logo-img{
+    height: 75px;
+    width: 65px;
+}
+.banner-content-div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    max-width: 90%;
+}
+.location-select select{
+    width: 300px;
+    height: 45px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border:2px solid black;
+    font-size: 20px;
+
+}
+.search-div input{
+    width: 550px;
+    height: 43px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border:2px solid black;
+ font-weight: 100;
+ font-size: 20px;
+}
+.search-div button{
+    height: 46px;
+    width: 40px;
+    background-color: #002f34;
+    margin-top: -10px;
+    border: none;
+    margin-left: 25px;
+
+}
+
+.search-btn{
+    margin-top: 4px;
+    color: white;
+    
+}
+.Search-form select{
+    height: 42px;
+    width: 100px;
+    border: none;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.Login{
+    margin-left: 35px;
+    width: 40px;
+}
+.sell-btn{
+    margin-left: 90px;
+    height: 50px;
+    width: 90px;
+    border-radius: 20px;
+    padding: 2px;
+    border: 5px solid yellow;
+    float: right;
+}
+.search-icon-div{
+    float: right;
+    padding-top: 5px;
+    margin-top: 5px;
+}

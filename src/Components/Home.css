@@ -1,0 +1,22 @@
+.Quick-row{
+    display: flex;
+    flex-direction: row;
+    background-color:#DFE5E5 ;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 4px;
+    margin-top: 30px;
+    width: 100vw;
+    height: 350px;
+}
+.Right-align{
+    display: inline-block;
+   height: 25px;
+
+    margin: 10px;
+}
+.recommentations{
+    display: flex;
+    flex-direction: row;
+}
+
